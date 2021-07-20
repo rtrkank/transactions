@@ -3,7 +3,7 @@ import data from '../../mock-data.json';
 export const sortTransactions = () => {
     const transactionsList = {
         totalRewards: 0,
-        rewardsExpiration: 'May 31, 2021',
+        rewardsExpiration: 'May 31, 2022',
         transactions: []
     }
     // calculate total rewards and transactions for each month
@@ -16,7 +16,7 @@ export const sortTransactions = () => {
     });
     // combine overall reward points from each year
     transactionsList['totalRewards'] = data.reduce((acc, curr) => acc + curr.totalRewards, 0);
-    
+
     transactionsList['transactions'] = data;
     return transactionsList;
 }
