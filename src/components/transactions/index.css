@@ -21,7 +21,7 @@ span.points{
     box-shadow: 0 7px 30px 5px rgba(0, 0, 0, 0.09);
 }
 
-.month-summary-card {
+.month-summary-card, .close-btn {
     cursor: pointer;
 }
 

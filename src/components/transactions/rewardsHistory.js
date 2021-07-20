@@ -48,7 +48,7 @@ function RewardsHistory({transactionsList}) {
                                 {selectedMonth !== '' && selectedTransaction.length !== 0 && <Row>
                                     <Col sm={12}>
                                         <Card body>
-                                            <div className="float-end"><Badge pill bg="primary fw-bold" onClick={() => setSelectedMonth('')}>x</Badge></div>
+                                            <div className="float-end"><Badge pill bg="primary fw-bold" className="close-btn" onClick={() => setSelectedMonth('')}>x</Badge></div>
                                             <div className="month mb-1">{selectedTransaction[0].month}</div>
                                             <div className="mb-4">You earned <strong>{selectedTransaction[0].totalRewards}</strong> points in total from <strong>{selectedTransaction[0].totalTransactions}</strong> transactions</div>
                                             <Table responsive="sm" striped>
