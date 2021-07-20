@@ -1,0 +1,69 @@
+[
+    {
+        "year": 2021,
+        "monthlyTransactions": [
+            {
+                "month": "January",
+                "orderHistory": [
+                    {"orderDate":"01/27/2021","orderNumber":"W5307315495","items":"Cranberries - Dry","status":"delivered","paid":69.37,"rewards":19},
+                    {"orderDate":"01/22/2021","orderNumber":"W4043914046","items":"Chicken Breast Halal","status":"delivered","paid":119.42,"rewards":88},
+                    {"orderDate":"01/18/2021","orderNumber":"W4087561996","items":"Ham - Proscuitto","status":"delivered","paid":57.42,"rewards":7},
+                    {"orderDate":"01/18/2021","orderNumber":"W8772787804","items":"Pastry - Banana Muffin - Mini","status":"delivered","paid":38.42,"rewards":0},
+                    {"orderDate":"01/14/2021","orderNumber":"W2066018103","items":"Muffin - Banana Nut Individual","status":"delivered","paid":84.19,"rewards":34},
+                    {"orderDate":"01/09/2021","orderNumber":"W3678828589","items":"Chips - Potato Jalapeno","status":"delivered","paid":142.69,"rewards":134},
+                    {"orderDate":"01/06/2021","orderNumber":"W2314708642","items":"Fiddlehead - Frozen","status":"delivered","paid":123.68,"rewards":96},
+                    {"orderDate":"01/05/2021","orderNumber":"W9657202011","items":"Sausage - Chorizo","status":"delivered","paid":63.92,"rewards":13},
+                    {"orderDate":"01/03/2021","orderNumber":"W8591279904","items":"Pork - Sausage Casing","status":"delivered","paid":100.56,"rewards":50},
+                    {"orderDate":"01/02/2021","orderNumber":"W7869157530","items":"Paper Cocktail Umberlla 80 - 180","status":"delivered","paid":124.58,"rewards":98}
+                ]
+            },
+            {
+                "month": "February",
+                "orderHistory": [
+                    {"orderDate":"02/24/2021","orderNumber":"W6255535110","items":"Sprouts - China Rose","status":"delivered","paid":83.01,"rewards":33},
+                    {"orderDate":"02/21/2021","orderNumber":"W8093825538","items":"Bread - Multigrain, Loaf","status":"delivered","paid":75.55,"rewards":25},
+                    {"orderDate":"02/18/2021","orderNumber":"W8307129009","items":"Wine - White, Gewurtzraminer","status":"delivered","paid":130.2,"rewards":110},
+                    {"orderDate":"02/16/2021","orderNumber":"W1769588004","items":"Pork - Sausage, Medium","status":"delivered","paid":134.05,"rewards":118},
+                    {"orderDate":"02/14/2021","orderNumber":"W9506399611","items":"Pernod","status":"delivered","paid":103.57,"rewards":56},
+                    {"orderDate":"02/07/2021","orderNumber":"W2234709005","items":"Beef - Bresaola","status":"delivered","paid":41.13,"rewards":0},
+                    {"orderDate":"02/04/2021","orderNumber":"W1428789958","items":"Syrup - Monin, Amaretta","status":"delivered","paid":93.13,"rewards":43},
+                    {"orderDate":"02/04/2021","orderNumber":"W9300344382","items":"Ice Cream - Chocolate","status":"delivered","paid":122.01,"rewards":94}
+                ]
+            },
+            {
+                "month": "March",
+                "orderHistory": [
+                    {"orderDate":"03/30/2021","orderNumber":"W7960526249","items":"Onions - Green","status":"delivered","paid":99.0,"rewards":49},
+                    {"orderDate":"03/30/2021","orderNumber":"W7530852417","items":"Duck - Breast","status":"delivered","paid":68.26,"rewards":18},
+                    {"orderDate":"03/26/2021","orderNumber":"W5037326967","items":"Chocolate - Pistoles, White","status":"delivered","paid":101.54,"rewards":52},
+                    {"orderDate":"03/23/2021","orderNumber":"W0604277889","items":"Pasta - Penne Primavera, Single","status":"delivered","paid":65.06,"rewards":15},
+                    {"orderDate":"03/21/2021","orderNumber":"W2622707324","items":"Pate - Liver","status":"delivered","paid":107.92,"rewards":64},
+                    {"orderDate":"03/19/2021","orderNumber":"W4098516101","items":"Wine - Two Oceans Cabernet","status":"delivered","paid":80.68,"rewards":30},
+                    {"orderDate":"03/19/2021","orderNumber":"W8231048803","items":"Artichoke - Hearts, Canned","status":"delivered","paid":64.19,"rewards":14},
+                    {"orderDate":"03/17/2021","orderNumber":"W1518964684","items":"Juice - Orange, 341 Ml","status":"delivered","paid":100.4,"rewards":50},
+                    {"orderDate":"03/15/2021","orderNumber":"W1171387818","items":"Beer - Tetleys","status":"delivered","paid":73.51,"rewards":23},
+                    {"orderDate":"03/07/2021","orderNumber":"W7356109537","items":"Wine - Alicanca Vinho Verde","status":"delivered","paid":126.8,"rewards":102}
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "monthlyTransactions": [
+            {
+                "month": "December",
+                "orderHistory": [
+                    {"orderDate":"12/23/2020","orderNumber":"W9547676326","items":"Dry Ice","status":"delivered","paid":50.8,"rewards":0},
+                    {"orderDate":"12/20/2020","orderNumber":"W9125770733","items":"Tart Shells - Barquettes, Savory","status":"delivered","paid":40.59,"rewards":0},
+                    {"orderDate":"12/17/2020","orderNumber":"W2052819994","items":"Wine - Soave Folonari","status":"delivered","paid":58.51,"rewards":8},
+                    {"orderDate":"12/14/2020","orderNumber":"W4888801913","items":"Ocean Spray - Ruby Red","status":"delivered","paid":40.91,"rewards":0},
+                    {"orderDate":"12/09/2020","orderNumber":"W8461752420","items":"Beer - Upper Canada Lager","status":"delivered","paid":71.1,"rewards":21}
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "monthlyTransactions": []
+    }
+]
