@@ -10,7 +10,7 @@ function RewardsHistory({transactionsList}) {
         const yearList = transactionsList.transactions.filter(y => y.year === selectedYear);
         const monthList = yearList[0].monthlyTransactions.filter(m => m.month === selectedMonth);
         setSelectedTransaction(monthList);
-    }, [selectedMonth]);
+    }, [selectedMonth, selectedYear, transactionsList]);
 
     const handleTabSelect = (key) => {
         setSelectedMonth('');
